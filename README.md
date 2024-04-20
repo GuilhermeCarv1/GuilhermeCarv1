@@ -1,5 +1,5 @@
 
-### Ola eu sou o Guilherme ✋🏻
+### Hi my name is Guilherme
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhercarv/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-carvalho-980460281/)
@@ -8,7 +8,7 @@
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCarv1&show_icons=true&theme=dark)
 
 
-## Tecnology 
+## Technologies 
 
 <div style="display:inline_block"><br/>
 <img align="center" alta="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -18,8 +18,6 @@
 <img align="center" alta="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img align="center" alta="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img align="center" alta="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img align="center" alta="CSS" src="	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alta="Jquery" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div> <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCarv1&layout=compact)
