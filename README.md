@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-carvalho-980460281/)
 [![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolionext.netlify.app/)
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCarv1&show_icons=true&theme=dark)
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCarv1&show_icons=true&theme=tokyonight)
 
 
 ## Technologies 
@@ -20,5 +20,5 @@
 <img align="center" alta="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div> <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCarv1&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCarv1&layout=compact&theme=tokyonight)
 
