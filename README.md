@@ -17,7 +17,7 @@
 <img align="center" alta="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div> <br>
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeCarv1&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCarv1&layout=compact&theme=tokyonight)
 
 
